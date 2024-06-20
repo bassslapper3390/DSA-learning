@@ -2,7 +2,7 @@
 
 This repo will be used to log my progress in learning DSA.
 
-### Week 1 (June 17 - June 23): Basic Data Structures
+### Week 1 : Basic Data Structures
 
 #### Goals:
 
@@ -18,7 +18,7 @@ This repo will be used to log my progress in learning DSA.
 - **Day 6**: Priority Queues and Deques - Implementation and use cases.
 - **Day 7**: Review and practice problems on Arrays, Linked Lists, Stacks, and Queues (LeetCode, HackerRank).
 
-### Week 2 (June 24 - June 30): Trees and Graphs
+### Week 2 : Trees and Graphs
 
 #### Goals:
 
@@ -50,7 +50,7 @@ This repo will be used to log my progress in learning DSA.
 - **Day 6**: Advanced Searching Algorithms - Ternary search and Exponential search.
 - **Day 7**: Review and practice sorting and searching problems (LeetCode, HackerRank).
 
-### Week 4 (July 8 - July 15): Advanced Topics and Problem Solving
+### Week 4 : Advanced Topics and Problem Solving
 
 #### Goals:
 
